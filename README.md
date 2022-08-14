@@ -4,6 +4,8 @@
 
 Fork from http://multilinguale.webflow.io
 
+You can add as many Language as you need like this. Specify the Language in [ISO 6391](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) Format.
+
 Only support modern browsers
 
 ## Install
